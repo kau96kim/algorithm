@@ -3,4 +3,4 @@ algorithm practice from [LeetCode](https://leetcode.com/problemset/top-interview
 
 ### Cheer Board
 
-*Keep up the Good Work!!* - [Tae Min Ha](github.com/taemin410)
+*Keep up the Good Work!!* - [Tae Min Ha](https://github.com/taemin410)
