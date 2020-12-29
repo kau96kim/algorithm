@@ -24,5 +24,3 @@ class Solution:
 
         return answer
 
-
-print(Solution.letterCombinations(Solution, ""))
